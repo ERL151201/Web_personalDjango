@@ -1,0 +1,5 @@
+certifi==2021.5.30
+Django==2.1
+Pillow==8.4.0
+pytz==2022.1
+wincertstore==0.2
